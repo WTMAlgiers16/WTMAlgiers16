@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Us:
 WTM Algiers is a community to empower impact makers in Algiers, the world changers who are parched for tech industry. Our goal is to develop borderless relation, empower limitless possibilities for people to know who they are in core and shine exactly as they are made to do. This is the world we are looking for. A world where equality and diversity in STEM , regardless of who you are, are taken full. Our team is looking forward to get women back to the drawing board and always stay excited about tech in some way.<br>
 
 
