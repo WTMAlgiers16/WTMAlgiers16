@@ -7,7 +7,7 @@
 
 - 🌱Currently hosting **WTM Day, Octopink**
 
-- Podcasts [https://podcasters.spotify.com/pod/show/wtm-algiers](https://podcasters.spotify.com/pod/show/wtm-algiers)
+- Hear our Podcasts [https://podcasters.spotify.com/pod/show/wtm-algiers](https://podcasters.spotify.com/pod/show/wtm-algiers)
 
 - 📝 We regularly write articles on [https://medium.com/wtm-algiers-blog](https://medium.com/wtm-algiers-blog)
 
@@ -19,7 +19,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Us:</h3>
 <p align="left">
 <a href="https://twitter.com/https://x.com/i/flow/login?redirect_after_login=%2falgierswtm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/i/flow/login?redirect_after_login=%2falgierswtm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/company/wtm-algiers/mycompany/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/wtm-algiers/mycompany/" height="30" width="40" /></a>
